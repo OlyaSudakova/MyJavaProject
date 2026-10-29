@@ -10,5 +10,7 @@ public class HelloWorld {
         System.out.println("This is the main branch!");
 
         System.out.println("This is a feature branch!");
+
+        System.out.println("Main branch updated!");
     }
 }
