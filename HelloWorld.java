@@ -18,5 +18,6 @@ public class HelloWorld {
 
         System.out.println("Fixing a bug!");
 
+        System.out.println("Ветка 1");
     }
 }
